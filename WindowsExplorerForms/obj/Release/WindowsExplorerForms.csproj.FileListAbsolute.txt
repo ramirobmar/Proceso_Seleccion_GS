@@ -1,0 +1,8 @@
+c:\users\ramiro\documents\visual studio 2017\Projects\WindowsExplorerForms\WindowsExplorerForms\bin\Release\WindowsExplorerForms.exe.config
+c:\users\ramiro\documents\visual studio 2017\Projects\WindowsExplorerForms\WindowsExplorerForms\bin\Release\WindowsExplorerForms.exe
+c:\users\ramiro\documents\visual studio 2017\Projects\WindowsExplorerForms\WindowsExplorerForms\bin\Release\WindowsExplorerForms.pdb
+c:\users\ramiro\documents\visual studio 2017\Projects\WindowsExplorerForms\WindowsExplorerForms\obj\Release\WindowsExplorerForms.xDSL_Tools.resources
+c:\users\ramiro\documents\visual studio 2017\Projects\WindowsExplorerForms\WindowsExplorerForms\obj\Release\WindowsExplorerForms.Properties.Resources.resources
+c:\users\ramiro\documents\visual studio 2017\Projects\WindowsExplorerForms\WindowsExplorerForms\obj\Release\WindowsExplorerForms.csproj.GenerateResource.Cache
+c:\users\ramiro\documents\visual studio 2017\Projects\WindowsExplorerForms\WindowsExplorerForms\obj\Release\WindowsExplorerForms.exe
+c:\users\ramiro\documents\visual studio 2017\Projects\WindowsExplorerForms\WindowsExplorerForms\obj\Release\WindowsExplorerForms.pdb
